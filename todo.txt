@@ -1,0 +1,5 @@
+// TODO:
+1. Fix bug: Add, Edit, Delete buttons doesn't work after sorting applied.
+2. Try to replicate app with graphQL instead of REST API
+3. Try to replicate app with fetch instead of axios
+4. Check other book apps for additional features
